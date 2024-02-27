@@ -23,7 +23,7 @@ body {
 
 .container {
 	background-color: var(--white);
-	width: 375px;
+	width: 300px;
 	padding: 1rem;
 	border-radius: 20px;
 	height: auto;
@@ -33,14 +33,15 @@ body {
 
 .title {
 	font-weight: 700;
-	padding: 0 3rem;
+	padding: 0 1rem;
 	color: var(--dark-blue);
 }
 
 .paragraph {
 	font-size: 15px;
 	font-weight: 400;
-	padding: 0 3rem;
+	padding: 0 1rem;
+	padding-bottom: 1rem;
 	color: var(--grayish-blue);
 }
 
